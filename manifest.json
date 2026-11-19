@@ -1,0 +1,10 @@
+{
+  "id": "voice-mod",
+  "name": "Voice Moderation",
+  "author": "carlosj188",
+  "description": "Disconnect or server-mute someone from a voice call with a right-click, right under the volume slider. No kick from the server.",
+  "homepage": "https://github.com/carlosj188/sharkord-voice-mod",
+  "logo": "https://raw.githubusercontent.com/carlosj188/sharkord-voice-mod/main/assets/logo.png",
+  "sdkVersion": 2,
+  "version": "0.2.0"
+}

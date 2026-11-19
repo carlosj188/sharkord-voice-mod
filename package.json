@@ -1,0 +1,21 @@
+{
+  "name": "sharkord-voice-mod",
+  "version": "0.2.0",
+  "module": "src/server/index.ts",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "build": "bun build.ts",
+    "publish": "bun publish.ts",
+    "setup": "bun scripts/setup.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19"
+  },
+  "peerDependencies": {
+    "react": "^19",
+    "typescript": "^5"
+  }
+}
